@@ -3,6 +3,8 @@ const express = require("express");
 const { connection, authenticate } = require("./database/database");
 const cors = require("cors");
 
+const port = process.env.PORT || 3001;
+
 const ItensPedido = require("./models/itensPedido");
 const Produto = require("./models/produto");
 const Pedido = require("./models/pedido");
