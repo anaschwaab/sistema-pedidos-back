@@ -18,9 +18,9 @@ A modelagem do banco de dados foi feita utilizando a ferramenta open source [BR 
 
 ## 💻 **Tecnologias Principais**
 
-[![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 
 
 ## **Tecnologias de Suporte**
@@ -28,12 +28,12 @@ A modelagem do banco de dados foi feita utilizando a ferramenta open source [BR 
 Algumas tecnologias auxiliaram no desenvolvimento do projeto, dentre elas:
 
 
-- [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-00D8FF?style=for-the-badge&logo=react&logoColor=white)](https://react-hook-form.com/)
-    - É uma biblioteca que facilita a criação e gerenciamento de formulários em aplicativos React, tornando o processo mais eficiente.
-- [![REACT ROUTER DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/web/guides/quick-start)
-  - Utilizado para criação de rotas e navegação entre telas. Além de criar rotas protegidas e não protegidas, podemos utilizar dos seus parâmetros dinâmicos.
-- [![AXIOS](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
-  - A biblioteca Axios foi utilizada para requisições HTTP e também para requisições com a _API_.
+- [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+    - ORM (Object-Relational Mapping) para Node.js que simplifica a interação com bancos de dados SQL, proporcionando uma abstração poderosa e flexível.
+- [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+  - Framework minimalista e flexível para Node.js, facilitando a construção de aplicativos web robustos e eficientes.
+- [![Dotenv](https://img.shields.io/badge/Dotenv-007A10?style=for-the-badge&logo=dotenv&logoColor=white)](https://www.npmjs.com/package/dotenv)
+  - Biblioteca para carregar variáveis de ambiente de arquivos .env, auxiliando na configuração e segurança de projetos Node.js.
 
 
 ## Executando o Projeto Localmente
