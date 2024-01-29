@@ -5,7 +5,7 @@ Esse é um sistema de pedidos, que foi desenvolvido a partir de um desafio que m
 ## Desafio:
 
 <div align = "center">
-  <img src="src/assets/images/desafio_proposto.jpeg" alt="logo" width="500" height="auto" />
+  <img src="assets/images/desafio_proposto.jpeg" alt="logo" width="500" height="auto" />
 </div>
 
 ## Modelagem de dados:
@@ -13,7 +13,7 @@ Esse é um sistema de pedidos, que foi desenvolvido a partir de um desafio que m
 A modelagem do banco de dados foi feita utilizando a ferramenta open source [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
 <div align = "center">
-<img src="src/assets/images/modelagem_db.jpeg" alt="logo" width="500" height="auto" />
+<img src="assets/images/modelagem_db.jpeg" alt="logo" width="500" height="auto" />
 </div>
 
 ## 💻 **Tecnologias Principais**
